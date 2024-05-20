@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Kantchev
+    given-names: V
+    orcid: https://orcid.org/0009-0008-8961-4573
+title: "Plotting data from TROPESS Level 2 products"
+version: 0.3.0
+date-released: 2023-05-23
+url: "https://github.com/NASA-TROPESS/tropess-plots/"
+institutional affiliation: Jet Propulsion Laboratory, California Institute of Technology.
+acknowledgement: These activities were carried out at the Jet Propulsion Laboratory, California Institute of Technology, under a contract with the National Aeronautics and Space Administration (NASA). © 2023. All rights reserved. California Institute of Technology, Pasadena, CA. Government sponsorship acknowledged.
